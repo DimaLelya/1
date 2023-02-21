@@ -1,0 +1,22 @@
+C:\Users\Nikolai\source\repos\Пр1\Пр1\bin\Debug\Пр1.exe.config
+C:\Users\Nikolai\source\repos\Пр1\Пр1\bin\Debug\Пр1.exe
+C:\Users\Nikolai\source\repos\Пр1\Пр1\bin\Debug\Пр1.pdb
+C:\Users\Nikolai\source\repos\Пр1\Пр1\obj\Debug\Пр1.csproj.AssemblyReference.cache
+C:\Users\Nikolai\source\repos\Пр1\Пр1\obj\Debug\Пр1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikolai\source\repos\Пр1\Пр1\obj\Debug\Пр1.Form1.resources
+C:\Users\Nikolai\source\repos\Пр1\Пр1\obj\Debug\Пр1.Properties.Resources.resources
+C:\Users\Nikolai\source\repos\Пр1\Пр1\obj\Debug\Пр1.csproj.GenerateResource.cache
+C:\Users\Nikolai\source\repos\Пр1\Пр1\obj\Debug\Пр1.csproj.CoreCompileInputs.cache
+C:\Users\Nikolai\source\repos\Пр1\Пр1\obj\Debug\Пр1.exe
+C:\Users\Nikolai\source\repos\Пр1\Пр1\obj\Debug\Пр1.pdb
+D:\is 31\Danilov\Пр1\Пр1\bin\Debug\Пр1.exe.config
+D:\is 31\Danilov\Пр1\Пр1\bin\Debug\Пр1.exe
+D:\is 31\Danilov\Пр1\Пр1\bin\Debug\Пр1.pdb
+D:\is 31\Danilov\Пр1\Пр1\obj\Debug\Пр1.csproj.AssemblyReference.cache
+D:\is 31\Danilov\Пр1\Пр1\obj\Debug\Пр1.csproj.SuggestedBindingRedirects.cache
+D:\is 31\Danilov\Пр1\Пр1\obj\Debug\Пр1.Form1.resources
+D:\is 31\Danilov\Пр1\Пр1\obj\Debug\Пр1.Properties.Resources.resources
+D:\is 31\Danilov\Пр1\Пр1\obj\Debug\Пр1.csproj.GenerateResource.cache
+D:\is 31\Danilov\Пр1\Пр1\obj\Debug\Пр1.csproj.CoreCompileInputs.cache
+D:\is 31\Danilov\Пр1\Пр1\obj\Debug\Пр1.exe
+D:\is 31\Danilov\Пр1\Пр1\obj\Debug\Пр1.pdb
